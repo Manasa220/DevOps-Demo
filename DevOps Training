@@ -1,1 +1,47 @@
 
+					DevOps
+ (Day 1)
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
+One DevOps Team which should have following 
+	1 Team
+	1 Mindset
+	1 Process
+	1 Practices
+	1 Goal. 
+
+Its CI/CD approach which mean to say Continuous Integration and Continous Delivery or Continuous Deployment. To achive this we have many DevOps tools in the market. We have to bring them into one pipeline and inetgarte it to achive the CI/CD approach. 
+With this both Development and Operations team will be in single roof we can avoid Knowledge waste, Inventory waste etc  and also we can deliver in less time with less cost. 
+•	It will provides values to the Business as well. 
+•	If all teams in single roof then everyone will be accountable to deliver the product. 
+•	We can use Jira for gathering requirements
+•	We can use Java/.Net for coding with respective softwares.
+•	We can use GIT, BitBucket for Version contolling
+•	Jenkins for continuous build and Inetrgration
+•	Selenimun for Automate testing
+•	Nagios for monitoring
+•	Ansible for Production Deployment 
+ 
+
+ 
+
+Git 
+•	Git is distributed 
+•	Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
+•	Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development
+•	Everyone need their own Repository.
+•	Git is a Repository but cant perform any repo Management activities. 
+ 
+
+  
+https://github.com/devopsschool-training-notes/devops-az-2021/blob/main/day1.txt#L307
+
+			GitHub ,Gitlab, Bit Bucket and Gerrit
+•	All are Cloud and Hosted environment and called as servers,
+•	Best UI experience, Wiki Integration
+•	Role based access control
+•	Hosting for multiple central Repo. 
+Steps:
+1.	Register and validate in github.com
+2.	Create Repository
+3.	Generate Key | MIND IT | in laptop 	
+$ ssh-keygen
